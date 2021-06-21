@@ -1,0 +1,47 @@
+#header-nav{
+	background-color: #8080807a;
+	border: 1px solid black;
+}
+.navbar-default .navbar-brand {
+   	color:black;
+	font-weight: bold;
+}
+.glyphicon-menu-hamburger{
+	width:1.5em;
+	font-weight: -1em
+}
+.glyphicon-menu-hamburger:hover{
+	color:white;
+	cursor: pointer;
+}
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+.navbar-default .navbar-toggle:hover {
+    border-color: white;
+    cursor: pointer;
+}
+.navbar-toggle {
+    padding: 4px 4px;
+}
+.divide-list{
+	border-bottom: 1px solid black;
+	text-align: center;
+	background-color: white;
+}
+h1{
+	text-align: center;
+}
+span{
+	font-weight: bold;
+	font-size: 18px;
+	position: absolute;
+	text-align: center;
+	width: 100%;	
+}
+p{
+	position: relative;
+	background-color: #8080807a;
+	color:black;
+	margin-top: 20PX;
+}
